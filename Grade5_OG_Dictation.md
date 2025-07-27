@@ -1,6 +1,8 @@
-# 📚 Grade 5 Orton-Gillingham Writing & Dictation Materials – Set 2
+# Grade 5 Orton-Gillingham Writing 
 
-### 🔤 **1. Dictation Word List** (Focus: Consonant Blends, Digraphs, and Syllables)
+_Dictation Materials – Set 2_
+
+### **1. Dictation Word List** (Focus: Consonant Blends, Digraphs, and Syllables)
 - **short vowel words**: sled, scram, trim, clump, flask  
 - **long vowel words**: slope, crate, gleam, spike, strive  
 - **multisyllabic words**: dentist, plastic, trumpet, garden, winter  
@@ -8,7 +10,7 @@
 
 ---
 
-### 📝 **2. Sentence Dictation Practice**
+### **2. Sentence Dictation Practice**
 
 **Basic Sentences**
 1. The sled slid down the icy hill.  
@@ -26,7 +28,7 @@
 
 ---
 
-### ✍️ **3. Writing Prompt Ideas**
+### **3. Writing Prompt Ideas**
 
 **Prompt 1:**  
 _Describe your favorite season. What do you like to do during that time and why?_
@@ -39,7 +41,7 @@ _What would you do if you woke up and it was snowing in the summer?_
 
 ---
 
-### 💡 **4. Tutor Tips for OG Approach**
+### **4. Tutor Tips for OG Approach**
 - **Visual**: Write each word on a whiteboard. Color-code vowel teams and blends.
 - **Auditory**: Stretch out sounds slowly. Have the student repeat and tap out syllables.
 - **Kinesthetic**: Use skywriting, sand trays, or tracing to reinforce spelling.
