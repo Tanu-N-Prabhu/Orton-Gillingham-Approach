@@ -1,4 +1,6 @@
-# Grade 5 OG English Tutoring Session – July 31, 2025
+# Grade 5 OG English Tutoring Session 
+
+_July 31, 2025_
 
 ## Warm-Up (10 minutes)
 - Quick spelling review:
