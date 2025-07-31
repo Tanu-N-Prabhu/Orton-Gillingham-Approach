@@ -1,4 +1,6 @@
-# Grade 5 English Tutoring Materials (Orton-Gillingham Approach)
+# Grade 5 English Tutoring Materials 
+
+_Orton-Gillingham Approach_
 
 Welcome to the **Grade 5 English Tutoring Repository** built on the **Orton-Gillingham (OG)** principles. These materials are ideal for structured, multisensory language instruction focused on phonemic awareness, decoding, grammar, spelling, and writing.
 
@@ -24,6 +26,7 @@ The **Orton-Gillingham approach** is:
 | [paragraph_dictation.md](https://github.com/Tanu-N-Prabhu/Orton-Gillingham-Approach/blob/main/paragraph_dictation.md)    | Paragraphs for dictation, listening, and writing practice   |
 | [OG_material_July_26.md](https://github.com/Tanu-N-Prabhu/Orton-Gillingham-Approach/blob/main/OG_material_July_26.md)    | Full 1-hour session material for July 26, 2025              |
 | [July_29_2025.md](https://github.com/Tanu-N-Prabhu/Orton-Gillingham-Approach/blob/main/July_29_2025.md)         | Full 1-hour session material for July 29, 2025              |
+|[July_31_2025.md](https://github.com/Tanu-N-Prabhu/Orton-Gillingham-Approach/blob/main/OG_material_July_31_2025.md) | Full 1-hour session material for July 31, 2025 |
 
 ---
 
