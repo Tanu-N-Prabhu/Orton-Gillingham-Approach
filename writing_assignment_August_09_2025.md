@@ -8,7 +8,7 @@ To write a well-structured paragraph or short essay based on a given prompt, usi
 ## Instructions for the Student
 1. Choose **one** of the prompts below (or your tutor will assign one).
 2. Plan your ideas using a mind map or bullet points.
-3. Write **at least 6–8 sentences**.
+3. Write **at least 6-8 sentences**.
 4. Include:
    - A **topic sentence** (main idea)
    - **Details** (supporting ideas, examples)
