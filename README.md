@@ -28,6 +28,7 @@ The **Orton-Gillingham approach** is:
 | [OG_material_July_26.md](https://github.com/Tanu-N-Prabhu/Orton-Gillingham-Approach/blob/main/OG_material_July_26.md)    | Full 1-hour session material for July 26, 2025              |
 | [July_29_2025.md](https://github.com/Tanu-N-Prabhu/Orton-Gillingham-Approach/blob/main/July_29_2025.md)         | Full 1-hour session material for July 29, 2025              |
 |[July_31_2025.md](https://github.com/Tanu-N-Prabhu/Orton-Gillingham-Approach/blob/main/OG_material_July_31_2025.md) | Full 1-hour session material for July 31, 2025 |
+| [Writing Assignment](https://github.com/Tanu-N-Prabhu/Orton-Gillingham-Approach/blob/main/writing_assignment_August_09_2025.md) | Write a well-structured paragraph |
 
 ---
 
