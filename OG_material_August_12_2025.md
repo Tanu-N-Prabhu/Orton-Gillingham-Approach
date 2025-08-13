@@ -1,4 +1,6 @@
-# Grade 5 OG English Tutoring Session – July 29D, 2025
+# Grade 5 OG English Tutoring Session
+
+_August 12, 2025_
 
 ## Total Time: 1 Hour
 
