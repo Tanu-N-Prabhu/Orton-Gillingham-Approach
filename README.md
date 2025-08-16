@@ -31,6 +31,8 @@ The **Orton-Gillingham approach** is:
 | [Writing Assignment](https://github.com/Tanu-N-Prabhu/Orton-Gillingham-Approach/blob/main/writing_assignment_August_09_2025.md) | Write a well-structured paragraph |
 | [OG_material_August_12_2025.md](https://github.com/Tanu-N-Prabhu/Orton-Gillingham-Approach/blob/main/OG_material_August_12_2025.md) | Material for August 12, 2025 - 1 Hour Session |
 | [August 14, 2025](https://github.com/Tanu-N-Prabhu/Orton-Gillingham-Approach/blob/main/August_15_Material.md) | Material for August 15, 2025 - 1 Hour Session |
+| [August 16, 2025](https://github.com/Tanu-N-Prabhu/Orton-Gillingham-Approach/blob/main/August_16.md) | Material for August 16, 2025 - 1 Hour Session |
+
 ---
 
 ## How to Use the Materials
