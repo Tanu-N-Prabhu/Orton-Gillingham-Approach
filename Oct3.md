@@ -1,5 +1,5 @@
 # Grade 5 English – Creative Writing & Vocabulary  
-**Date:** October 3, 2025  
+**Date:** September 13, 2025  
 **Duration:** 1 Hour  
 
 ---
@@ -42,4 +42,31 @@ Choose **one prompt** and write at least **2–3 paragraphs** (6–8 sentences e
 
 ---
 
-## Part 3: Quick Writi
+## Part 3: Quick Writing Challenge (10 minutes)  
+
+Write a **short descriptive paragraph** (4–5 sentences) about one of these:  
+- A **haunted house**  
+- A **sunny beach**  
+- A **snowy mountain**  
+
+Include:  
+- 2 adjectives  
+- 1 action verb  
+- 1 feeling word  
+
+---
+
+## Part 4: Sharing & Feedback (10 minutes)  
+- Student reads their favorite part aloud.  
+- Tutor asks:  
+  - Did the story have a beginning, middle, and end?  
+  - Did you use at least 3 vocabulary words?  
+  - Could sentences be more descriptive?  
+
+---
+
+## Homework (Optional)  
+Write a short diary entry (1 paragraph) about something surprising that happened this week.  
+
+---
+✅ By the end of this session, the student will have practiced vocabulary, storytelling, and descriptive writing.  
