@@ -1,5 +1,6 @@
-# Grade 5 Writing – Hamburger Method Practice  
-**Date:** October 7, 2025  
+# Grade 5 Writing 
+## Hamburger Method Practice  
+**Date:** December 2, 2025  
 **Duration:** 1 Hour  
 **Focus:** Slow, neat, structured writing with clear intro–details–conclusion.
 
@@ -8,7 +9,7 @@
 ## Learning Goal  
 Write a well-organized paragraph using the **Hamburger Method**:
 - **Top Bun:** Introduction sentence  
-- **Meat (3–5 sentences):** Details, examples, descriptions  
+- **Meat (3-5 sentences):** Details, examples, descriptions  
 - **Bottom Bun:** Concluding sentence  
 
 ---
@@ -37,7 +38,7 @@ Choose ONE topic and write a **Hamburger Paragraph**.
 4. **My dream weekend**  
 5. **The best meal I ever ate**
 
-### ✔ Writing Expectations
+### Writing Expectations
 - **1 Intro sentence**  
 - **3–5 detail sentences (goal = 5)**  
 - **1 concluding sentence**  
