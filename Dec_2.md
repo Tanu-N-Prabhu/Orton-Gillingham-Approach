@@ -2,7 +2,7 @@
 ## Hamburger Method Practice  
 **Date:** December 2, 2025  
 **Duration:** 1 Hour  
-**Focus:** Slow, neat, structured writing with clear intro–details–conclusion.
+**Focus:** Slow, neat, structured writing with clear intro-details-conclusion.
 
 ---
 
